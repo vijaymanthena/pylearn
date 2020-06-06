@@ -138,6 +138,6 @@ dmypy.json
 cython_debug/
 
 # VS Code related files
-.vscode/*
-.code-workspace
+.vscode/
+*.code-workspace
 
